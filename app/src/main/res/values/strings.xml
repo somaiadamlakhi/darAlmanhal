@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DarAlmanhalTask</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="tab_text_1">الألعاب</string>
+    <string name="tab_text_2">القصص</string>
+    <string name="tab_text_3">الكتب</string>
+
+    <string name="search_in_books">البحث في الكتب</string>
+    <string name="sience">العلوم</string>
+    <string name="math">الرياضيات</string>
+    <string name="english_language">اللغة الإنجليزية</string>
+    <string name="arabic_language">اللغة العربية</string>
+    <string name="currency">د.أ</string>
+
+    <string name="book1">واحة العربية المستوى 2 </string>
+    <string name="book2">أيام الأسبوع</string>
+    <string name="book3">الصديق الجديد</string>
+    <string name="book4">لعبة السكون</string>
+    <string name="book5">أُحبّكـَ يا أبي</string>
+    <string name="book6">يارا و فراس </string>
+    <string name="book7">واحة العربية المستوى </string>
+    <string name="book8">واحة العربية المستوى </string>
+    <string name="book9">واحة العربية المستوى </string>
+    <string name="book10">واحة العربية المستوى </string>
+    <string name="checkout">الدفع</string>
+</resources>
