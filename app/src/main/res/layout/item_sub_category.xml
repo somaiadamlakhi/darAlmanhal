@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:id="@+id/sub_category_name_tv"
+    android:background="@drawable/rounded_shape_green"
+    android:textColor="@android:color/white"
+    android:text="@string/search_in_books"
+    android:layout_marginLeft="10dp"
+    android:textSize="18sp"
+    android:layout_gravity="center"
+    android:layout_marginRight="10dp"
+    android:padding="5dp"
+    android:gravity="center"
+    android:layout_height="wrap_content"/>
+
